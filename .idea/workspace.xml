@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ded428ec-b81a-40b5-91c8-62b281d678c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2JQ1AFrVehJUEjgPkDzD2e06Qlh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ded428ec-b81a-40b5-91c8-62b281d678c0" name="Default Changelist" comment="" />
+      <created>1671995347769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671995347769</updated>
+      <workItem from="1671995351695" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="203" key="#Deployment" timestamp="1671995575850">
+      <screen x="0" y="0" width="1680" height="1089" />
+    </state>
+    <state x="433" y="203" key="#Deployment/0.0.1680.1089/-493.-1440.3440.1440@0.0.1680.1089" timestamp="1671995575850" />
+    <state x="703" y="444" key="WebDeployment.AddServerDialog.v.1" timestamp="1671995468059">
+      <screen x="0" y="0" width="1680" height="1089" />
+    </state>
+    <state x="703" y="444" key="WebDeployment.AddServerDialog.v.1/0.0.1680.1089/-493.-1440.3440.1440@0.0.1680.1089" timestamp="1671995468059" />
+  </component>
+</project>

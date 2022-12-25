@@ -1,0 +1,134 @@
+.banner__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 32px;
+}
+
+.banner__bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 32px;
+}
+
+.banner__slide {
+    font-size: "Merriweather";
+    padding: 40px 100px;
+    justify-content: inherit !important;
+}
+
+.banner__sub-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner__sub-item--text {
+    min-width: 60%;
+    max-width: 60%;
+}
+
+.banner__sub-item--picture {
+    min-width: 40%;
+    max-width: 40%;
+}
+
+.banner__sub-item--picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.banner__align {
+    display: block;
+    padding-top: 20px;
+}
+
+.banner__title {
+    display: inline-block;
+    font-family: "Merriweather", sans-serif;
+    text-transform: lowercase;
+    font-size: 34px;
+    background-color: #fff;
+    color: #242425;
+    padding: 4px 6px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.banner__active-text {
+    display: inline-block;
+    font-family: "Merriweather", sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+    padding: 4px 6px;
+    color: #fff;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+}
+
+.banner__active-text--discount {
+    background-color: #5ea412;
+}
+
+.banner__active-text--gr {
+    background: linear-gradient(270deg, #a05b25 0%, rgba(188, 131, 85, 0.64) 100%);
+}
+
+.banner__btn {
+    font-weight: 700;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 1;
+    background-color: #242630;
+    padding: 12px 60px;
+    color: #ffff;
+    font-size: 14px;
+}
+
+@media screen and (max-width: 767px) {
+    .banner__slide {
+        padding: 20px;
+    }
+
+    .banner__slide {
+        height: auto !important;
+    }
+
+    .banner__sub-wrapper {
+        flex-direction: column;
+    }
+
+    .banner__sub-item--text {
+        min-width: 100%;
+        max-width: 100%;
+    }
+    
+    .banner__sub-item--picture {
+        min-width: 100%;
+        max-width: 100%;
+        max-height: 220px;
+    }
+
+    .banner__sub-item--picture img {
+        max-height: 220px;
+    }
+
+    .banner__btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .banner__align {
+        margin-bottom: 12px;
+    }
+
+    .banner .swiper-arrow {
+        display: none !important;
+    }
+}
